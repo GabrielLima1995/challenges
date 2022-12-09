@@ -1,0 +1,1 @@
+# soma_de_pares_consecutivos
